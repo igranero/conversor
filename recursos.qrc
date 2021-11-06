@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/information.png</file>
+    <file>icons/coins.png</file>
+    <file>icons/bitcoin.png</file>
+    <file>icons/cancel.png</file>
+    <file>icons/dollar.png</file>
+    <file>icons/loading.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>image/wallpaper.png</file>
+  </qresource>
+</RCC>
